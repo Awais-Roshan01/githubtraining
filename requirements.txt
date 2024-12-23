@@ -5,7 +5,7 @@ Vibrant
 Colors
 Button
 Dark Mode
-Styling
+Video call
 
 Payment method
 send money
