@@ -3,3 +3,6 @@ Emoji
 Type option
 Vibrant
 Colors
+Button
+Dark Mode
+Styling
